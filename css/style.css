@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(55, 184, 249);
+    background-image: url(../img/pattern.png);
+    background-attachment: fixed;
+}
+
+.logo{
+    width: 128px;
+    height: 128px;
+}
