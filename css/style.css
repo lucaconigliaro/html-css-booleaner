@@ -1,44 +1,44 @@
-header{
+header {
     background-color: rgb(55, 184, 249);
     background-image: url(../img/pattern.png);
     background-attachment: fixed;
 }
 
-.logo{
+.logo {
     width: 128px;
-    height: 128px;
+   margin-top: 5%;
 }
 
-.writed-by{
+.writed-by {
     color: gray;
 }
-
-.booleaner{
+ 
+.booleaner {
     color: rgb(0, 110, 255);
 }
 
-.date{
-    font-size: small
+.date {
+    font-size: small;
 }
 
-.paragraph-1{
+.paragraph-1 {
     background-color: yellow;
 }
 
-.head{
+.head {
     background-color: rgba(14, 125, 209, 0.981);
     color: white;
 }
 
-.first-lorem{
+.first-lorem {
     background-color: rgba(17, 198, 219, 0.645);
 }
 
-.third-lorem{
+.third-lorem {
     background-color: rgba(17, 198, 219, 0.645);
 }
 
-.paragraph-2{
+.paragraph-2 {
     background-color: yellow;
 }
 
@@ -46,17 +46,21 @@ h3{
     color: gray;
 }
 
-.foot-img1{
+.foot-img1 {
     background-image: url(../img/monitor.jpg);
     color: white;
+    width: 200px;
+    height: 200px;
 }
 
-.foot-img2{
+.foot-img2 {
     background-image: url(../img/graph.jpg);
     color: white;
+    width: 200px;
+    height: 200px;
 }
 
-table{
+table {
    text-align: left;
    border-spacing: 0cm;
 }
